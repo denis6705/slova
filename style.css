@@ -2,3 +2,10 @@ button {
 	width: 20pt;
 	height: 20pt;
 }
+
+table {
+	background-color: yellow;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
